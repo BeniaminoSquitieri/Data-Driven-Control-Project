@@ -67,9 +67,6 @@ This project explores the implementation and analysis of **data-driven control a
 - **CVXPY**: A Python library for convex optimization, used to solve the optimization problems in IOC.
 - **Robotarium**: Provides both simulation and real-world testing environments for the algorithms developed.
 
-## Conclusion
-
-This project demonstrates the effectiveness of data-driven control methods like FOC and IOC in guiding autonomous robots through complex environments. By applying these techniques, we explored various control strategies and their limitations, offering insights into potential improvements for real-world applications. Future work will focus on refining the cost function and improving trajectory smoothness in challenging environments.
 
 ## References
 
