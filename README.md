@@ -78,4 +78,3 @@ This project explores the implementation and analysis of **data-driven control a
 
 For any questions regarding this project, please contact:
 
-- Group 3: [Insert Email Contact]
