@@ -74,7 +74,5 @@ This project explores the implementation and analysis of **data-driven control a
 2. **CVXPY Documentation**: [CVXPY Documentation](https://www.cvxpy.org/)
 3. **Robotarium**: [Robotarium Environment](https://www.robotarium.org/)
 
-## Contact Information
 
-For any questions regarding this project, please contact:
 
