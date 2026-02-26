@@ -63,14 +63,14 @@ This project explores the implementation and analysis of **data-driven control a
 
 ## Tools and Technologies
 
-- **MATLAB/Simulink**: Used for simulation and algorithm development.
+- **VisualStudioCode**: Used for simulation and algorithm development.
 - **CVXPY**: A Python library for convex optimization, used to solve the optimization problems in IOC.
 - **Robotarium**: Provides both simulation and real-world testing environments for the algorithms developed.
 
 
 ## References
 
-1. **MATLAB Documentation**: [MATLAB & Simulink Documentation](https://www.mathworks.com/help/matlab/)
+1. **VisualStudioCode Documentation**: [VisualStudioCode Documentation](https://code.visualstudio.com/docs)
 2. **CVXPY Documentation**: [CVXPY Documentation](https://www.cvxpy.org/)
 3. **Robotarium**: [Robotarium Environment](https://www.robotarium.org/)
 
